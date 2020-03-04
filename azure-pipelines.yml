@@ -19,5 +19,5 @@ steps:
     resourceGroupName: 'kaushik'
     location: 'Central US'
     templateLocation: 'Linked artifact'
-    csmFile: 'CreateAzureStorage/azuredeploy.json'
+    csmFile: 'CreateStorageAccount/azuredeploy.json'
     deploymentMode: 'Incremental'
