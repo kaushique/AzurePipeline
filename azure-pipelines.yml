@@ -16,7 +16,7 @@ steps:
     ConnectedServiceName: 'azure-rm'
     subscriptionName: 'e394c692-7ebe-4f4e-9241-b64f461672fc'
     action: 'Create Or Update Resource Group'
-    resourceGroupName: 'AzureRmPipeline-rg'
+    resourceGroupName: 'kaushik'
     location: 'Central US'
     templateLocation: 'Linked artifact'
     csmFile: 'CreateAzureStorage/azuredeploy.json'
